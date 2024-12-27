@@ -1,0 +1,18 @@
+Package: GEEMiRKAT
+Type: Package
+Title: An adaptive microbiome regression-based kernel association test
+        using generalized estimating equations for longitudinal
+        microbiome studies
+Version: 1.0
+Author: Han Sun; Jianjun Zhang
+Maintainer: Han Sun <sunh529@mails.ccnu.edu.cn>; Jianjun Zhang <zjj@henau.edu.cn>
+Description: GEEMiRKAT can be used to test the association between the microbiome and host phenotypes from longitudinal microbiome studies.
+Imports: phyloseq, vegan, GUniFrac, PGEE, MiRKAT, devtools, ACAT
+License: GPL-2
+Encoding: UTF-8
+URL: https://github.com/SunHan5/GEEMiRKAT
+Suggests: knitr, rmarkdown
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2024-12-23 15:04:09 UTC; Sun
+Depends: R (>= 3.5.0)
