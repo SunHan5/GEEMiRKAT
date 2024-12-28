@@ -112,7 +112,6 @@ library(GUniFrac)
 library(PGEE)
 library(MiRKAT)
 library(ACAT)
-library(GEEMiHC)
 library(GEEMiRKAT)
 ```
 
@@ -145,7 +144,7 @@ K.BC = D2K(D.BC)
 Ks <- list(BC = K.BC, U.UniFrac = K.unweighted, G.UniFrac.50 = K.weighted50, W.UniFrac = K.weighted)
 ```
 
-Fit GEEMiHC:
+Fit GEEMiRKAT:
 
 ```
 set.seed(123)
