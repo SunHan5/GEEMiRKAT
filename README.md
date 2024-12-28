@@ -155,9 +155,11 @@ out
 
 
 ## References
-* Sun H, et al. Detecting sparse microbial association signals adaptively from longitudinal microbiome data based on generalized estimating equations. _Briefings in Bioinformatics_ 2022;**23**:bbac149.
+* Zhang J, et al. An adaptive microbiome regression-based kernel association test using generalized estimating equations for longitudinal microbiome studies. (under review)
 
 * Chen J, et al. Associating microbiome composition with environmental covariates using generalized UniFrac distances. _Bioinformatics_ 2012;**28**:2106-2113.
+
+* Escobar JS, et al. The gut microbiota of Colombians differs from that of Americans, Europeans and Asians. _BMC Microbiology_ 2014;**14**(1):311.
 
 * Liu Y, et al. ACAT: A Fast and Powerful p Value Combination Method for Rare-Variant Analysis in Sequencing Studies. _American Journal of Human Genetics_ 2019;**104**:410-421.
 
